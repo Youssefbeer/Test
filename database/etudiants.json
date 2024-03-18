@@ -1,0 +1,35 @@
+{
+    "etudiants": [
+        {
+            "id": 4,
+            "nom": "yof",
+            "prenom": "beqsdqsfq",
+            "age": 20
+        },
+        {
+            "id": 6,
+            "nom": "youssef",
+            "prenom": "berrissoul",
+            "age": "23"
+        },
+        {
+            "id": 7,
+            "nom": "ANAS",
+            "prenom": "AHMEED",
+            "age": "13"
+        },
+        {
+            "id": 9,
+            "nom": "ANACSWS",
+            "prenom": "AHMCXX",
+            "age": "23"
+        },
+        {
+            "id": 10,
+            "nom": "ANASQSCX",
+            "prenom": "AHMEEDDDD",
+            "age": "34"
+        }
+    ],
+    "lastId": 11
+}
